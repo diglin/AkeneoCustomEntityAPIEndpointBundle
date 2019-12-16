@@ -1,0 +1,3 @@
+api_ref_data:
+    resource: '@DiglinApiRefDataBundle/Resources/config/routing/reference_data.yml'
+    prefix: /rest/v1

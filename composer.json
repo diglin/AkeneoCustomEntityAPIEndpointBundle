@@ -1,0 +1,16 @@
+{
+    "name": "diglin/custom-entity-api-endpoint-bundle",
+    "description": "Add API Endpoint for the Custom Entity Bundle for Akeneo",
+    "type": "symfony-bundle",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Sylvain Rayé",
+            "email": "support@diglin.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "akeneo-labs/custom-entity-bundle": "^2.4"
+    }
+}

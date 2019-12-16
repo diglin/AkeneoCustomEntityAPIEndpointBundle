@@ -1,0 +1,4 @@
+api_ref_data:
+    acl:
+        reference_data:
+            get: 'Get Reference Data information'
